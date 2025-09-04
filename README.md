@@ -5,9 +5,9 @@
 
 ## 📰 Sobre mim
 - 🚀 Desenvolvedor de software apaixonado por tecnologia e inovação. 
-- 🎯 Especializado em desenvolvimento web e back-end com NestJS e Angular.
-- 🛠️ Experiência com APIs REST, WebSockets e bancos de dados SQL e NoSQL.
-- 🌍 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+- 🎯 Especializado em desenvolvimento web e back-end com NestJS, Angular e React.
+- 🛠️ Experiência com APIs REST, WebSockets e bancos de dados SQL.
+- 🌍 Aprendendo sobre desenvolvimento mobile usando Flutter e Ionic.
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="start">
