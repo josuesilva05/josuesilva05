@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josueoliveira1/" target="_blank">
+  <a href="https://www.linkedin.com/in/josuesilva05/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:josue.oliveira8569@gmail.com">
@@ -13,11 +13,10 @@
 
 ---
 
-## ⚡ Transformando Lógica em Soluções Escaláveis
+## ⚡ Sobre mim
 
-Desenvolvedor Web na **Nova Rota do Oeste** Estudante de Computação na **UFMT**
-
-Atuação focada em **TypeScript Ecosystem**, arquiteturas backend robustas, mensageria distribuída e comunicação em tempo real.
+Desenvolvedor Web na **Nova Rota do Oeste** Estudante de Sistemas de Informação na **UFMT**   
+Focado no ecossistema **Node.js**, arquiteturas backend robustas, mensageria distribuída e comunicação em tempo real.
 
 ---
 
@@ -29,10 +28,10 @@ Atuação focada em **TypeScript Ecosystem**, arquiteturas backend robustas, men
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos
 
 ### 🚌 Busão CBA  
-**Stack:** NestJS • Redis • Socket.IO • Flutter • PostgreSQL  
+**Stack:** NestJS • Redis • Socket.IO • Flutter • PostgreSQL • Firebase   
 Motor de monitoramento de frotas em tempo real com alta frequência de eventos geolocalizados e atualização incremental de estado.
 
 ---
