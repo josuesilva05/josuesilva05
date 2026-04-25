@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:191970&height=220&section=header&text=Josué%20Silva&fontSize=55&fontAlign=50&fontAlignY=30&animation=twinkling&fontColor=ffffff&desc=Fullstack%20Software%20Engineer&descAlign=0&descAlignY=55&descAlignX=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:191970&height=220&section=header&fontSize=55&fontAlign=50&fontAlignY=30&animation=twinkling&fontColor=ffffff&descAlign=0&descAlignY=55&descAlignX=0" />
 </p>
 
 <p align="center">
@@ -13,14 +13,14 @@
 
 ---
 
-## ⚡ Sobre mim
+## Sobre mim
 
 Desenvolvedor Web na **Nova Rota do Oeste** Estudante de Sistemas de Informação na **UFMT**   
 Focado no ecossistema **Node.js**, arquiteturas backend robustas, mensageria distribuída e comunicação em tempo real.
 
 ---
 
-## 🧠 Stack Principal
+## Stack Principal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,nestjs,fastapi,angular,react,flutter,postgres,mongodb,redis,docker,linux,nginx" />
@@ -28,9 +28,9 @@ Focado no ecossistema **Node.js**, arquiteturas backend robustas, mensageria dis
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
-### 🚌 Busão CBA  
+### Busão CBA  
 **Stack:** NestJS • Redis • Socket.IO • Flutter • PostgreSQL • Firebase   
 Motor de monitoramento de frotas em tempo real com alta frequência de eventos geolocalizados e atualização incremental de estado.
 
